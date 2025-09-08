@@ -10,7 +10,7 @@ class Settings():
         self.bg_color = (10, 23, 41)
 
         # Configurações da espaçonave
-        self.ship_speed_factor = 1.5
+        self.ship_speed_factor = 1.25
 
         # Configurações dos projéteis
         self.bullet_speed_factor = 1
