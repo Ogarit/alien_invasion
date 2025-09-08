@@ -13,7 +13,8 @@ class Settings():
         self.ship_speed_factor = 1.25
 
         # Configurações dos projéteis
-        self.bullet_speed_factor = 1.5
+        self.bullet_speed_factor = 2
         self.bullet_width = 2
-        self.bullet_height = 17
+        self.bullet_height = 20
         self.bullet_color = (186, 55, 0)
+        self.bullets_allowed = 3
