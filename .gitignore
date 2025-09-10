@@ -1,5 +1,2 @@
 # pixi environments
 .pixi
-pixi.lock
-.gitattributes
-.gitignore
